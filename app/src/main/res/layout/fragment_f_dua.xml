@@ -10,13 +10,17 @@
         android:id="@+id/tvJudul"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Fragment fDua"/>
+        android:text="Fragment fDua"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
 
     <TextView
         android:id="@+id/tvHasil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Data dari Fragment 1"/>
+        android:text="Data dari Fragment 1"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
 
     <Button
         android:id="@+id/btnOpenFDua"
